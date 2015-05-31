@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".RideDetailsActivity"
+            android:label="@string/title_activity_ride_details" >
+        </activity>
     </application>
 
 </manifest>
